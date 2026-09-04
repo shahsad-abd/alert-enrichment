@@ -1,5 +1,4 @@
-#  SOC Threat Intel Extension (Micro-SOAR)
-
+#  SOC Alert IOC enrichment
 A lightweight, zero-click Manifest V3 browser extension designed to eliminate Tier 1 and Tier 2 SOC alert triage toil. 
 
 This tool acts as a micro-SOAR (Security Orchestration, Automation, and Response) utility living directly in your browser. It auto-detects observables (IPs, Domains, URLs, Hashes), routes them to the appropriate Threat Intelligence APIs, and formats the output for safe pasting into enterprise ticketing systems like Microsoft Sentinel, Jira, or ServiceNow.
